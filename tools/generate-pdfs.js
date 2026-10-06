@@ -135,7 +135,11 @@ ${body}
   const mdFiles = findMarkdownFiles(REPO).sort();
   console.log(`Found ${mdFiles.length} Markdown files.`);
 
-  const browser = await chromium.launch();
+  // Some containers ship a pre-installed Chromium at a fixed path instead of
+  // the revision `npx playwright install` would fetch — use it when present.
+  const preinstalled = '/opt/pw-browsers/chromium';
+  const launchOpts = fs.existsSync(preinstalled) ? { executablePath: preinstalled } : {};
+  const browser = await chromium.launch(launchOpts);
   const page = await browser.newPage();
 
   for (const srcPath of mdFiles) {

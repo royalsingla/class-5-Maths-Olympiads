@@ -36,7 +36,8 @@ the answer key; redo only the missed questions 2 days later.
 | Week | Activity |
 |---|---|
 | 11 | `assignments/11-achievers-hots/` ✅ — 2-and-3-step mixed problems pulling from every Phase‑1 topic. Then attempt **Sample Paper 1** (untimed, open-book) to find the gaps — see `sample-papers/README.md`. |
-| 12 | Attempt **Sample Papers 2–6**, each **strictly timed to 60 minutes**, one every 1–2 days. After each paper, log every wrong answer in an error log (topic + why it was wrong) before moving to the next paper. |
+| 12 | Attempt **Sample Papers 2–5** (Level‑1), each **strictly timed to 60 minutes**, one every 1–2 days. After each paper, log every wrong answer in an error log (topic + why it was wrong) before moving to the next paper. |
+| 13 (if qualified) | Attempt **Sample Papers 6–9** (Level‑2 track), timed, once Level 1 results come in and you've qualified for Level 2 — see below. |
 
 ### Sample paper schedule (Phase 3)
 
@@ -47,10 +48,16 @@ the answer key; redo only the missed questions 2 days later.
 | Sample Paper 3 | Week 12, Day 3 | Timed (60 min) |
 | Sample Paper 4 | Week 12, Day 5 | Timed (60 min) |
 | Sample Paper 5 | Week 12, Day 7 | Timed (60 min) — treat as Level‑1 dress rehearsal |
-| Sample Paper 6 | Week 12, Day 9 | Timed (60 min), Level‑2 difficulty step-up, for students likely to qualify |
+| Sample Paper 6 | After qualifying Level 1 | Timed (60 min), Level‑2 difficulty |
+| Sample Paper 7 | 1–2 days after Paper 6 | Timed (60 min), Level‑2 difficulty |
+| Sample Paper 8 | 1–2 days after Paper 7 | Timed (60 min), Level‑2 difficulty |
+| Sample Paper 9 | 1–2 days after Paper 8 | Timed (60 min), Level‑2 difficulty |
 
-All 6 sample papers are built out (full 50 questions, 60 marks, answer
-key each) — see `sample-papers/README.md`.
+All 9 sample papers are built out (full 50 questions, 60 marks, answer
+key each) — see `sample-papers/README.md`. Papers 1–5 are Level‑1
+difficulty; Papers 6–9 are a dedicated **Level‑2 track** for students
+who've qualified Level 1 and are prepping for the actual, harder
+Level‑2 exam.
 
 ## Progress tracker
 
@@ -65,7 +72,8 @@ key each) — see `sample-papers/README.md`.
 - [ ] Week 9 — Reasoning: Patterns/Analogy/Coding/Word Sequence/Puzzles *(assignment ready)*
 - [ ] Week 10 — Reasoning: Ranking/Direction/Mirror & Water Images *(assignment ready)*
 - [ ] Week 11 — Achievers/HOTS + Sample Paper 1 *(assignment + paper ready)*
-- [ ] Week 12 — Sample Papers 2–6, timed *(all 6 papers ready)*
+- [ ] Week 12 — Sample Papers 2–5, timed *(Level‑1, all ready)*
+- [ ] Week 13 — Sample Papers 6–9, timed, if qualified for Level 2 *(Level‑2 track, all ready)*
 
 (The checkboxes above track *your* progress working through the plan, not
 whether the content exists — every assignment and sample paper listed is

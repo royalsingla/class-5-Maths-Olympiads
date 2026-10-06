@@ -28,8 +28,9 @@ assignments/
   01-number-sense/ … 11-achievers-hots/   11 topic worksheets, each with an answer key
 sample-papers/
   README.md              How the full-length papers map to the real pattern
-  sample-paper-01.md … sample-paper-06.md     6 full 50-question papers (IMO pattern, 60 marks, 60 min)
-  sample-paper-01-answer-key.md … sample-paper-06-answer-key.md
+  sample-paper-01.md … sample-paper-09.md     9 full 50-question papers (IMO pattern, 60 marks, 60 min)
+  sample-paper-01-answer-key.md … sample-paper-09-answer-key.md
+                         Papers 1–5: Level‑1. Papers 6–9: Level‑2 track.
 pdf/
   Print-ready PDF of every file above, mirroring the same folder structure
 tools/
@@ -61,6 +62,7 @@ that file's first `# heading` — no code changes needed as content is added.
 ## Status
 
 Complete. Syllabus/pattern research, the 12-week plan, all 11 weekly
-assignments (Weeks 1–11), and all 6 full-length sample papers are built
-out — each with an answer key, and each arithmetic/logic answer verified
+assignments (Weeks 1–11), and all 9 full-length sample papers (5 Level‑1 +
+a 4-paper Level‑2 track for students who qualify Round 1) are built out —
+each with an answer key, and each arithmetic/logic answer verified
 programmatically. PDF versions of every file are in `pdf/`.

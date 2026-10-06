@@ -28,17 +28,22 @@ Each paper ships as two files: `sample-paper-NN.md` (questions only) and
 
 ## Status
 
-| Paper | Status | Scheduled (per `docs/03-practice-plan.md`) |
-|---|---|---|
-| Sample Paper 1 | ✅ Built | Week 11, untimed review pass |
-| Sample Paper 2 | ✅ Built | Week 12, Day 1 |
-| Sample Paper 3 | ✅ Built | Week 12, Day 3 |
-| Sample Paper 4 | ✅ Built | Week 12, Day 5 |
-| Sample Paper 5 | ✅ Built | Week 12, Day 7 — Level‑1 dress rehearsal |
-| Sample Paper 6 | ✅ Built | Week 12, Day 9 — Level‑2 difficulty step-up |
+| Paper | Status | Level | Scheduled (per `docs/03-practice-plan.md`) |
+|---|---|---|---|
+| Sample Paper 1 | ✅ Built | Level‑1 | Week 11, untimed review pass |
+| Sample Paper 2 | ✅ Built | Level‑1 | Week 12, Day 1 |
+| Sample Paper 3 | ✅ Built | Level‑1 | Week 12, Day 3 |
+| Sample Paper 4 | ✅ Built | Level‑1 | Week 12, Day 5 |
+| Sample Paper 5 | ✅ Built | Level‑1 | Week 12, Day 7 — dress rehearsal |
+| Sample Paper 6 | ✅ Built | Level‑2 | After qualifying Level 1 |
+| Sample Paper 7 | ✅ Built | Level‑2 | After qualifying Level 1 |
+| Sample Paper 8 | ✅ Built | Level‑2 | After qualifying Level 1 |
+| Sample Paper 9 | ✅ Built | Level‑2 | After qualifying Level 1 |
 
-All 6 papers follow the same 50-question/4-section shape. Papers 2–5 are
+All 9 papers follow the same 50-question/4-section shape. Papers 2–5 are
 comparable Level‑1 difficulty (each drawing on different topic mixes so
-they don't repeat); Paper 6 is deliberately harder throughout — bigger
-numbers, multi-step word problems even in Sections 2–3, and tougher
-Achievers questions — to mirror SOF IMO Level 2.
+they don't repeat). Papers 6–9 are a **Level‑2 track**: deliberately
+harder throughout — bigger numbers, multi-step word problems even in
+Sections 2–3, and tougher Achievers questions — for students who've
+qualified Level 1 and are prepping for the actual Level‑2 exam. Run them
+after Sample Paper 5, one every 1–2 days, same timing and marking.

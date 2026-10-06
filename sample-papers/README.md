@@ -28,10 +28,17 @@ Each paper ships as two files: `sample-paper-NN.md` (questions only) and
 
 ## Status
 
-| Paper | Status |
-|---|---|
-| Sample Paper 1 | ✅ Built |
+| Paper | Status | Scheduled (per `docs/03-practice-plan.md`) |
+|---|---|---|
+| Sample Paper 1 | ✅ Built | Week 11, untimed review pass |
+| Sample Paper 2 | ✅ Built | Week 12, Day 1 |
+| Sample Paper 3 | ✅ Built | Week 12, Day 3 |
+| Sample Paper 4 | ✅ Built | Week 12, Day 5 |
+| Sample Paper 5 | ✅ Built | Week 12, Day 7 — Level‑1 dress rehearsal |
+| Sample Paper 6 | ✅ Built | Week 12, Day 9 — Level‑2 difficulty step-up |
 
-Build more in the same 50-question/4-section shape as the plan
-progresses, drawing questions from whichever `assignments/` topics are
-due that week — the same way the Class 4 kit grew from 1 sample paper to 6.
+All 6 papers follow the same 50-question/4-section shape. Papers 2–5 are
+comparable Level‑1 difficulty (each drawing on different topic mixes so
+they don't repeat); Paper 6 is deliberately harder throughout — bigger
+numbers, multi-step word problems even in Sections 2–3, and tougher
+Achievers questions — to mirror SOF IMO Level 2.

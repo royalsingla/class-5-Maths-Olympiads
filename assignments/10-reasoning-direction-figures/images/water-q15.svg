@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="522" height="340" viewBox="0 0 522 340" font-family="Arial, Helvetica, sans-serif">
+<rect x="0" y="0" width="522" height="340" fill="white"/>
+<text x="261.0" y="10" text-anchor="middle" font-size="16" fill="#16314f" font-weight="bold">Figure, standing on a water surface</text>
+<rect x="181.0" y="15" width="160" height="70" fill="#f7f9fc" stroke="#2b4c7e" stroke-width="2" rx="6"/>
+<text x="261.0" y="45.0" text-anchor="middle" dominant-baseline="central" font-size="46" font-weight="bold" fill="#16314f">G</text>
+<line x1="181.0" y1="85" x2="341.0" y2="85" stroke="#2b7dc9" stroke-width="3"/>
+<text x="261.0" y="101" text-anchor="middle" font-size="12" fill="#2b7dc9" font-style="italic">water surface</text>
+<text x="261.0" y="127" text-anchor="middle" font-size="15" fill="#16314f" font-weight="bold">Which option below is the correct WATER IMAGE</text>
+<text x="261.0" y="146" text-anchor="middle" font-size="15" fill="#16314f" font-weight="bold">(the reflection seen below the water surface)?</text>
+<rect x="20.0" y="165" width="110" height="100" fill="white" stroke="#a9b7c9" stroke-width="2" rx="6"/>
+<g>
+<text x="75.0" y="215.0" text-anchor="middle" dominant-baseline="central" font-size="46" font-weight="bold" fill="#16314f">G</text>
+</g>
+<text x="75.0" y="287" text-anchor="middle" font-size="18" font-weight="bold" fill="#16314f">A</text>
+<rect x="144.0" y="165" width="110" height="100" fill="white" stroke="#a9b7c9" stroke-width="2" rx="6"/>
+<g transform="translate(398.0,0) scale(-1,1)">
+<text x="199.0" y="215.0" text-anchor="middle" dominant-baseline="central" font-size="46" font-weight="bold" fill="#16314f">G</text>
+</g>
+<text x="199.0" y="287" text-anchor="middle" font-size="18" font-weight="bold" fill="#16314f">B</text>
+<rect x="268.0" y="165" width="110" height="100" fill="white" stroke="#a9b7c9" stroke-width="2" rx="6"/>
+<g transform="rotate(180,323.0,215.0)">
+<text x="323.0" y="215.0" text-anchor="middle" dominant-baseline="central" font-size="46" font-weight="bold" fill="#16314f">G</text>
+</g>
+<text x="323.0" y="287" text-anchor="middle" font-size="18" font-weight="bold" fill="#16314f">C</text>
+<rect x="392.0" y="165" width="110" height="100" fill="white" stroke="#a9b7c9" stroke-width="2" rx="6"/>
+<g transform="translate(0,430.0) scale(1,-1)">
+<text x="447.0" y="215.0" text-anchor="middle" dominant-baseline="central" font-size="46" font-weight="bold" fill="#16314f">G</text>
+</g>
+<text x="447.0" y="287" text-anchor="middle" font-size="18" font-weight="bold" fill="#16314f">D</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="350" viewBox="0 0 600 350" font-family="Arial, Helvetica, sans-serif">
+<rect width="600" height="350" fill="white"/>
+<text x="300.0" y="18" text-anchor="middle" font-size="17" font-weight="bold" fill="#16314f">Marks scored by 6 students (out of 100)</text>
+<line x1="70" y1="280.0" x2="570" y2="280.0" stroke="#d9e2ec" stroke-width="1"/>
+<text x="60" y="284.0" text-anchor="end" font-size="12" fill="#5a6b7d">0</text>
+<line x1="70" y1="230.0" x2="570" y2="230.0" stroke="#d9e2ec" stroke-width="1"/>
+<text x="60" y="234.0" text-anchor="end" font-size="12" fill="#5a6b7d">20</text>
+<line x1="70" y1="180.0" x2="570" y2="180.0" stroke="#d9e2ec" stroke-width="1"/>
+<text x="60" y="184.0" text-anchor="end" font-size="12" fill="#5a6b7d">40</text>
+<line x1="70" y1="130.0" x2="570" y2="130.0" stroke="#d9e2ec" stroke-width="1"/>
+<text x="60" y="134.0" text-anchor="end" font-size="12" fill="#5a6b7d">60</text>
+<line x1="70" y1="80.0" x2="570" y2="80.0" stroke="#d9e2ec" stroke-width="1"/>
+<text x="60" y="84.0" text-anchor="end" font-size="12" fill="#5a6b7d">80</text>
+<line x1="70" y1="30.0" x2="570" y2="30.0" stroke="#d9e2ec" stroke-width="1"/>
+<text x="60" y="34.0" text-anchor="end" font-size="12" fill="#5a6b7d">100</text>
+<line x1="70" y1="30" x2="70" y2="280" stroke="#16314f" stroke-width="2"/>
+<line x1="70" y1="280" x2="570" y2="280" stroke="#16314f" stroke-width="2"/>
+<rect x="88.8" y="70.0" width="45.8" height="210.0" fill="#4f7cac" stroke="#16314f" stroke-width="1.5"/>
+<text x="111.7" y="64.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#16314f">84</text>
+<text x="111.7" y="300.0" text-anchor="middle" font-size="13" fill="#16314f">Aman</text>
+<rect x="172.1" y="100.0" width="45.8" height="180.0" fill="#5a8fc2" stroke="#16314f" stroke-width="1.5"/>
+<text x="195.0" y="94.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#16314f">72</text>
+<text x="195.0" y="300.0" text-anchor="middle" font-size="13" fill="#16314f">Priya</text>
+<rect x="255.4" y="55.0" width="45.8" height="225.0" fill="#4f7cac" stroke="#16314f" stroke-width="1.5"/>
+<text x="278.3" y="49.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#16314f">90</text>
+<text x="278.3" y="300.0" text-anchor="middle" font-size="13" fill="#16314f">Rohan</text>
+<rect x="338.8" y="115.0" width="45.8" height="165.0" fill="#5a8fc2" stroke="#16314f" stroke-width="1.5"/>
+<text x="361.7" y="109.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#16314f">66</text>
+<text x="361.7" y="300.0" text-anchor="middle" font-size="13" fill="#16314f">Simmi</text>
+<rect x="422.1" y="40.0" width="45.8" height="240.0" fill="#4f7cac" stroke="#16314f" stroke-width="1.5"/>
+<text x="445.0" y="34.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#16314f">96</text>
+<text x="445.0" y="300.0" text-anchor="middle" font-size="13" fill="#16314f">Tina</text>
+<rect x="505.4" y="85.0" width="45.8" height="195.0" fill="#5a8fc2" stroke="#16314f" stroke-width="1.5"/>
+<text x="528.3" y="79.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#16314f">78</text>
+<text x="528.3" y="300.0" text-anchor="middle" font-size="13" fill="#16314f">Vikas</text>
+</svg>

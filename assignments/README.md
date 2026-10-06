@@ -21,6 +21,10 @@ Topic-wise practice worksheets, one folder per week of the plan in
 | `09-reasoning-patterns-coding/` | Patterns, analogy, classification, alphabet test, coding–decoding, logical sequence of words, puzzle test | ✅ Built |
 | `10-reasoning-direction-figures/` | Ranking, direction sense, mirror & water images, embedded figures, clock & calendar | ✅ Built (18 Q) |
 | `11-achievers-hots/` | Multi-step HOTS problems across all topics above | ✅ Built |
+| `12-achievers-level2/` | **Level‑2 track** — harder, multi-step HOTS beyond Week 11, for students who've qualified Level 1 | ✅ Built |
+| `13-reasoning-level2/` | **Level‑2 track** — compound logical-reasoning puzzles stacking 2+ clues/rules, beyond Weeks 9–10 | ✅ Built |
+| `14-percentage-ratio-level2/` | **Level‑2 track** — multi-step percentage/ratio/profit-loss/SI, beyond Week 5 | ✅ Built |
+| `15-geometry-level2/` | **Level‑2 track** — compound-shape perimeter & area (paths, frames, cut corners), beyond Week 7 | ✅ Built |
 
 All 11 folders are built in the same two-file (`assignment.md` +
 `answer-key.md`) shape, 15 questions each — except
@@ -29,6 +33,17 @@ diagram-based). `08-data-handling/` and `10-reasoning-direction-figures/`
 also ship an `images/` folder of SVG diagrams referenced from their
 `assignment.md`, built the same way as the
 [Class 4 kit](https://github.com/royalsingla/Class-4-Maths-Olympiads).
+
+Folders `12`–`15` are a **Level‑2 topic track**: for students who've
+qualified Level 1 of the real exam and want harder, topic-focused practice
+rather than just the mixed-topic Level‑2 sample papers (`sample-papers/sample-paper-06.md`
+onward). Same two-file shape, 15 questions each, every answer verified
+programmatically. These four topics were picked because they're where
+Level 2 gets *conceptually* harder, not just numerically bigger — the
+other core topics (number sense, four operations, measurement, data
+handling, etc.) are already covered by the harder numbers in the Level‑2
+sample papers. Percentage/Ratio/Profit-Loss/SI gets its own Level‑2
+assignment here since it's the topic that's genuinely new versus Class 4.
 
 Class 5's Week 10 adds **water images** alongside mirror images — the
 upside-down reflection you'd see below a water surface, as distinct from

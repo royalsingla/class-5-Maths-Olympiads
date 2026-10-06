@@ -26,6 +26,7 @@ docs/
 assignments/
   README.md              Naming convention + full topic list (Weeks 1–11)
   01-number-sense/ … 11-achievers-hots/   11 topic worksheets, each with an answer key
+  12-achievers-level2/ … 15-geometry-level2/   Level‑2 topic worksheets (harder, for Round‑1 qualifiers)
 sample-papers/
   README.md              How the full-length papers map to the real pattern
   sample-paper-01.md … sample-paper-09.md     9 full 50-question papers (IMO pattern, 60 marks, 60 min)
@@ -65,4 +66,8 @@ Complete. Syllabus/pattern research, the 12-week plan, all 11 weekly
 assignments (Weeks 1–11), and all 9 full-length sample papers (5 Level‑1 +
 a 4-paper Level‑2 track for students who qualify Round 1) are built out —
 each with an answer key, and each arithmetic/logic answer verified
-programmatically. PDF versions of every file are in `pdf/`.
+programmatically. PDF versions of every file are in `pdf/`. Four dedicated
+**Level‑2 topic assignments** (Achievers/HOTS, Logical Reasoning,
+Percentage/Ratio/Profit-Loss/SI, Geometry — the areas where Level 2 gets
+conceptually harder, not just numerically bigger) are also built, in
+`assignments/12-achievers-level2/` through `15-geometry-level2/`.

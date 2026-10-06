@@ -37,7 +37,7 @@ the answer key; redo only the missed questions 2 days later.
 |---|---|
 | 11 | `assignments/11-achievers-hots/` ✅ — 2-and-3-step mixed problems pulling from every Phase‑1 topic. Then attempt **Sample Paper 1** (untimed, open-book) to find the gaps — see `sample-papers/README.md`. |
 | 12 | Attempt **Sample Papers 2–5** (Level‑1), each **strictly timed to 60 minutes**, one every 1–2 days. After each paper, log every wrong answer in an error log (topic + why it was wrong) before moving to the next paper. |
-| 13 (if qualified) | Attempt **Sample Papers 6–9** (Level‑2 track), timed, once Level 1 results come in and you've qualified for Level 2 — see below. |
+| 13 (if qualified) | Work through the 4 **Level‑2 topic assignments** (`assignments/12-achievers-level2/`, `13-reasoning-level2/`, `14-percentage-ratio-level2/`, `15-geometry-level2/`) untimed first, to rebuild each skill at the harder difficulty. Then attempt **Sample Papers 6–9** (Level‑2 track), timed, once Level 1 results come in and you've qualified for Level 2 — see below. |
 
 ### Sample paper schedule (Phase 3)
 
@@ -52,6 +52,19 @@ the answer key; redo only the missed questions 2 days later.
 | Sample Paper 7 | 1–2 days after Paper 6 | Timed (60 min), Level‑2 difficulty |
 | Sample Paper 8 | 1–2 days after Paper 7 | Timed (60 min), Level‑2 difficulty |
 | Sample Paper 9 | 1–2 days after Paper 8 | Timed (60 min), Level‑2 difficulty |
+
+### Level‑2 topic assignments (new)
+
+Before the Level‑2 sample papers, four dedicated harder topic worksheets
+are available, for the areas where Level 2 gets conceptually harder (not
+just bigger numbers):
+
+| Folder | Topic |
+|---|---|
+| `assignments/12-achievers-level2/` ✅ | Multi-step HOTS (chained percentage changes, fraction-of-remainder, age/rate problems) |
+| `assignments/13-reasoning-level2/` ✅ | Compound logical reasoning (2+ stacked clues per question) |
+| `assignments/14-percentage-ratio-level2/` ✅ | Multi-step percentage/ratio/profit-loss/SI — the topic newest to Class 5 |
+| `assignments/15-geometry-level2/` ✅ | Compound-shape perimeter & area (paths, frames, cut corners) |
 
 All 9 sample papers are built out (full 50 questions, 60 marks, answer
 key each) — see `sample-papers/README.md`. Papers 1–5 are Level‑1
@@ -73,6 +86,7 @@ Level‑2 exam.
 - [ ] Week 10 — Reasoning: Ranking/Direction/Mirror & Water Images *(assignment ready)*
 - [ ] Week 11 — Achievers/HOTS + Sample Paper 1 *(assignment + paper ready)*
 - [ ] Week 12 — Sample Papers 2–5, timed *(Level‑1, all ready)*
+- [ ] Week 13 — Level‑2 topic assignments (Achievers, Reasoning, Percentage/Ratio, Geometry), if qualified *(all ready)*
 - [ ] Week 13 — Sample Papers 6–9, timed, if qualified for Level 2 *(Level‑2 track, all ready)*
 
 (The checkboxes above track *your* progress working through the plan, not

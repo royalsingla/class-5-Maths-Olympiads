@@ -1,0 +1,13 @@
+{
+  "name": "class-5-maths-olympiads-tools",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tooling to regenerate the pdf/ folder from this repo's Markdown",
+  "scripts": {
+    "build-pdfs": "node generate-pdfs.js"
+  },
+  "dependencies": {
+    "marked": "^18.0.14",
+    "playwright": "^1.56.1"
+  }
+}

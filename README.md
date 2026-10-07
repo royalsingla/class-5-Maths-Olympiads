@@ -36,7 +36,13 @@ pdf/
   Print-ready PDF of every file above, mirroring the same folder structure
 tools/
   generate-pdfs.js       Regenerates pdf/ from the Markdown
+12th-phy-derivations/
+  README.md              Unrelated bonus content — see note below
 ```
+
+**Note:** `12th-phy-derivations/` is unrelated to the Class 5 Maths
+Olympiad plan above — it's a CBSE Class 12 Physics board-exam derivations
+checklist, kept here at the user's request rather than in its own repo.
 
 ## How to use this
 

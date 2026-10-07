@@ -7,18 +7,18 @@ not the derivations themselves — the idea is to use it as a revision
 tracker: can you reproduce each one on paper, from the starting principle,
 without looking it up?
 
-> **Note on currency:** CBSE revises (rationalises) the Physics syllabus
-> most years, and has dropped several derivations in recent cycles —
+> **Note on currency:** this list has been checked line by line against
+> the **official CBSE Physics (Code 042) Class XI–XII curriculum for
+> 2026–27** (cbseacademic.nic.in, Chapters 1–14 of the Class XII theory
+> syllabus), not just general search results. Several derivations that
+> used to be standard are no longer in the syllabus at all — Potentiometer,
 > Cyclotron, Velocity Selector, the Toroid, the magnetic dipole moment of
 > a revolving electron, Earth's Magnetism, Eddy Currents, and Brewster's
-> Law are **not** in this list because they were removed from the syllabus
-> in past rationalisations. This version has also been cross-checked
-> against the current official syllabus wording for which topics are
-> explicitly marked *"no derivation, formula only"* or *"qualitative
-> treatment only"* — those are called out separately below rather than
-> listed as derivations. Still, cross-check against the current year's
-> official CBSE curriculum (cbseacademic.nic.in) before finalising a
-> revision plan, since the exact wording can shift year to year.
+> Law — and several more are explicitly downgraded by the syllabus itself
+> to *"no derivation, formula only"* or *"qualitative treatment only"*;
+> those are called out separately below rather than listed as derivations.
+> CBSE still revises this syllabus most years, so re-check against that
+> year's official PDF before finalising a revision plan.
 
 **Frequency key:** ★★★ = asked almost every year, in some form · ★★ =
 asked frequently · ★ = asked occasionally, still worth knowing.
@@ -45,6 +45,8 @@ all — understand the idea and be able to explain it in words/diagram.
 | Electric potential due to a point charge | 2 | ★★ |
 | Electric potential due to an electric dipole, at a general point | 3 | ★★ |
 | Relation between electric field and potential (E = −dV/dr) | 2 | ★★ |
+| **Electrical potential energy** of a system of two point charges | 2 | ★★ |
+| **Potential energy of an electric dipole** in a uniform electric field | 2–3 | ★★ |
 | Capacitance of a **parallel plate capacitor** (no dielectric) | 3 | ★★★ |
 | Capacitance of a parallel plate capacitor **with a dielectric slab** | 3–5 | ★★★ |
 | Effective capacitance of capacitors in **series** and in **parallel** | 2–3 | ★★ |
@@ -60,7 +62,12 @@ three equivalent forms and when to use each, don't derive it.
 | Relation between current and drift velocity (I = nAeV_d) | 3 | ★★★ |
 | Ohm's law from the microscopic (drift velocity) model; resistivity ρ = m/(ne²τ) | 3–5 | ★★★ |
 | Balance condition of the **Wheatstone bridge** | 2–3 | ★★ |
-| Principle of a **potentiometer** — comparing EMFs of two cells / finding internal resistance | 3–5 | ★★ |
+
+**Not in the current syllabus:** the potentiometer (principle, comparing
+EMFs, internal resistance) has been dropped entirely — it doesn't appear
+anywhere in the 2026–27 Current Electricity chapter or in the practicals
+list. Don't spend revision time on it unless your school's internal
+notes specifically bring it back.
 
 ## Unit 3 — Moving Charges and Magnetism
 
@@ -69,15 +76,21 @@ three equivalent forms and when to use each, don't derive it.
 | Magnetic field at the **centre** of a current-carrying circular loop (Biot–Savart law) | 3 | ★★★ |
 | Magnetic field **on the axis** of a current-carrying circular loop | 3–5 | ★★★ |
 | Magnetic field due to a straight current-carrying conductor (Biot–Savart law) | 3 | ★★ |
-| Magnetic field inside a long **solenoid** (Ampere's circuital law) | 3 | ★★★ |
 | Force between two long parallel current-carrying conductors; definition of the ampere | 3 | ★★★ |
 | Torque on a current-carrying loop in a uniform magnetic field; principle of a **moving-coil galvanometer** | 3–5 | ★★★ |
 | Conversion of a galvanometer into an **ammeter** (shunt) and a **voltmeter** (series resistance) | 2–3 | ★★ |
 
-**Qualitative only (Magnetism and Matter):** a bar magnet as an
-equivalent solenoid, and the magnetic field intensity of a dipole on
-its axial and equatorial lines, are both listed as qualitative
-treatment only — no derivation is expected for either.
+**Qualitative only:** the syllabus explicitly restricts several items
+here to qualitative treatment, no maths expected — know the result and
+be able to sketch/explain it, but don't prepare a derivation:
+- the magnetic field **inside a straight solenoid** (via Ampere's
+  circuital law) — many guides still list this as a full derivation,
+  but the 2026–27 syllabus tags it *"only qualitative treatment"*;
+- a bar magnet as an **equivalent solenoid**;
+- the magnetic field intensity of a dipole (bar magnet) on its **axial
+  and equatorial** lines;
+- the **torque on a magnetic dipole** (bar magnet) in a uniform
+  magnetic field.
 
 ## Unit 4 — Electromagnetic Induction & Alternating Current
 
@@ -93,6 +106,11 @@ treatment only — no derivation is expected for either.
 | Resonance condition and resonant frequency of a series LCR circuit | 3 | ★★ |
 | Average power in an AC circuit; power factor | 2–3 | ★★ |
 | Working and EMF equation of a **transformer**; efficiency | 3 | ★★ |
+
+**Electromagnetic Waves (Chapter 8)** isn't given its own numbered
+section below — the entire chapter (displacement current, wave
+characteristics, transverse nature, the EM spectrum) is syllabus-tagged
+*"qualitative idea only"*, so there's nothing to derive from it.
 
 ## Unit 5 — Ray Optics & Optical Instruments
 
@@ -150,11 +168,12 @@ derivation of the formula itself isn't expected.
 
 **No standalone derivations in the current syllabus.** Chapter 13
 (Nuclei) now covers only the composition and size of the nucleus,
-nuclear forces, mass defect, the binding-energy-per-nucleon curve, and
-fission/fusion — all conceptual, not derivation-based. The radioactivity
-topic (decay law N = N₀e^(−λt), half-life, and mean life) has been
-**removed from the syllabus entirely** and should not be prepared as a
-derivation, or at all, unless your school's internal notes say otherwise.
+nuclear force, the mass-energy relation and mass defect, binding energy
+per nucleon and its variation with mass number, and nuclear fission and
+fusion — all conceptual, not derivation-based. The radioactivity topic
+(decay law N = N₀e^(−λt), half-life, and mean life) has been **removed
+from the syllabus entirely** and should not be prepared as a derivation,
+or at all, unless your school's internal notes say otherwise.
 
 ## Unit 10 — Semiconductor Electronics
 
@@ -180,8 +199,12 @@ asked from this unit, unlike Units 1–9 above.
    derivation with a couple of numericals on the same formula while
    revising.
 
-Sources consulted for frequency/scope: recent-year CBSE sample papers and
-previous-year question papers, and the current rationalised CBSE Class 12
-Physics syllabus (cbseacademic.nic.in) — including its exact wording on
-which items are formula-only or qualitative-only, which is why those are
-now called out separately rather than listed as derivations.
+Sources: the official **CBSE Physics (Code 042) Class XI–XII curriculum,
+2026–27**, published by cbseacademic.nic.in — every Chapter 1–14 content
+line for Class XII theory was checked directly against it, which is why
+items like the potentiometer, the solenoid field, and the radioactivity
+topic are now handled exactly the way that document states, rather than
+on general knowledge of past years' patterns. Frequency ratings (★)
+still come from recent-year CBSE sample papers and previous-year
+question papers, since the syllabus document itself doesn't rank
+importance.

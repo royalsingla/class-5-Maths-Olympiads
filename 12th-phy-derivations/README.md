@@ -12,13 +12,22 @@ without looking it up?
 > Cyclotron, Velocity Selector, the Toroid, the magnetic dipole moment of
 > a revolving electron, Earth's Magnetism, Eddy Currents, and Brewster's
 > Law are **not** in this list because they were removed from the syllabus
-> in past rationalisations. Cross-check against the current year's
+> in past rationalisations. This version has also been cross-checked
+> against the current official syllabus wording for which topics are
+> explicitly marked *"no derivation, formula only"* or *"qualitative
+> treatment only"* — those are called out separately below rather than
+> listed as derivations. Still, cross-check against the current year's
 > official CBSE curriculum (cbseacademic.nic.in) before finalising a
-> revision plan, since the exact deleted/restored list can shift year to
-> year.
+> revision plan, since the exact wording can shift year to year.
 
 **Frequency key:** ★★★ = asked almost every year, in some form · ★★ =
 asked frequently · ★ = asked occasionally, still worth knowing.
+
+**Status tags used below:** a plain table row is a full derivation you
+should be able to reproduce. **Formula only** means the syllabus
+explicitly says no derivation is required — know and apply the formula,
+don't derive it. **Qualitative only** means no maths is expected at
+all — understand the idea and be able to explain it in words/diagram.
 
 ---
 
@@ -38,8 +47,11 @@ asked frequently · ★ = asked occasionally, still worth knowing.
 | Relation between electric field and potential (E = −dV/dr) | 2 | ★★ |
 | Capacitance of a **parallel plate capacitor** (no dielectric) | 3 | ★★★ |
 | Capacitance of a parallel plate capacitor **with a dielectric slab** | 3–5 | ★★★ |
-| Energy stored in a charged capacitor | 3 | ★★★ |
 | Effective capacitance of capacitors in **series** and in **parallel** | 2–3 | ★★ |
+
+**Formula only:** Energy stored in a capacitor — U = ½CV² = ½QV = Q²/2C.
+The syllabus explicitly says *"no derivation, formulae only"* — know the
+three equivalent forms and when to use each, don't derive it.
 
 ## Unit 2 — Current Electricity
 
@@ -62,6 +74,11 @@ asked frequently · ★ = asked occasionally, still worth knowing.
 | Torque on a current-carrying loop in a uniform magnetic field; principle of a **moving-coil galvanometer** | 3–5 | ★★★ |
 | Conversion of a galvanometer into an **ammeter** (shunt) and a **voltmeter** (series resistance) | 2–3 | ★★ |
 
+**Qualitative only (Magnetism and Matter):** a bar magnet as an
+equivalent solenoid, and the magnetic field intensity of a dipole on
+its axial and equatorial lines, are both listed as qualitative
+treatment only — no derivation is expected for either.
+
 ## Unit 4 — Electromagnetic Induction & Alternating Current
 
 | Derivation | Typical marks | Frequency |
@@ -69,6 +86,8 @@ asked frequently · ★ = asked occasionally, still worth knowing.
 | **Motional EMF** (from the force on a moving charge) | 3 | ★★★ |
 | Self-inductance of a long solenoid | 3 | ★★★ |
 | Mutual inductance of two long coaxial solenoids | 3–5 | ★★ |
+| **AC generator** — derivation of the instantaneous EMF (e = e₀ sin ωt) from a coil rotating in a magnetic field | 3 | ★★★ |
+| Relation between the **RMS and peak values** of alternating current/voltage (I_rms = I₀/√2) | 2 | ★★ |
 | AC through a pure resistor / pure inductor / pure capacitor — current, phase relationships | 2–3 each | ★★ |
 | Impedance of a series **LCR circuit** using a phasor diagram | 5 | ★★★ |
 | Resonance condition and resonant frequency of a series LCR circuit | 3 | ★★ |
@@ -80,6 +99,7 @@ asked frequently · ★ = asked occasionally, still worth knowing.
 | Derivation | Typical marks | Frequency |
 |---|---|---|
 | Mirror formula for a concave mirror (real image case) | 3 | ★★ |
+| Relation between **critical angle and refractive index** for total internal reflection (n = 1/sin i_c) | 2 | ★★ |
 | Refraction at a single spherical surface — relation between u, v, R | 3–5 | ★★★ |
 | **Lens maker's formula** | 3–5 | ★★★ |
 | Thin lens formula (1/v − 1/u = 1/f) | 2–3 | ★★ |
@@ -93,9 +113,18 @@ asked frequently · ★ = asked occasionally, still worth knowing.
 
 | Derivation | Typical marks | Frequency |
 |---|---|---|
-| Young's double-slit experiment — derivation of **fringe width** | 3–5 | ★★★ |
+| **Proof of the laws of reflection and refraction using Huygens' principle** | 3 | ★★★ |
 | Conditions for constructive and destructive interference (path difference) | 2–3 | ★★★ |
-| Single-slit diffraction — condition for the first minimum | 3 | ★★ |
+
+**Formula only:** Young's double-slit fringe width, β = λD/d. The
+syllabus explicitly says *"expression for fringe width (no derivation,
+final expression only)"* — know what each symbol means and be able to
+apply it, don't derive it.
+
+**Qualitative only:** single-slit diffraction (the pattern, and why the
+central maximum is twice as wide as the secondary ones) — a mathematical
+derivation of the fringe/angular width is not expected, only the
+qualitative explanation.
 
 ## Unit 7 — Dual Nature of Radiation and Matter
 
@@ -111,15 +140,21 @@ asked frequently · ★ = asked occasionally, still worth knowing.
 | Bohr's postulates → **radius of the nth orbit** of the hydrogen atom | 3–5 | ★★★ |
 | Bohr's model → velocity of the electron in the nth orbit | 2–3 | ★★ |
 | Bohr's model → **total energy of the electron** in the nth orbit | 3–5 | ★★★ |
-| Expression for the wavelength of spectral lines (Rydberg formula) | 3 | ★★ |
+
+**Qualitative only:** the hydrogen line spectra (Lyman, Balmer, Paschen
+series, etc.) and the Rydberg formula are listed as qualitative
+treatment only — know the series and what the formula predicts, but a
+derivation of the formula itself isn't expected.
 
 ## Unit 9 — Nuclei
 
-| Derivation | Typical marks | Frequency |
-|---|---|---|
-| **Radioactive decay law** (N = N₀e^(−λt)) | 2–3 | ★★ |
-| Relation between half-life and decay constant | 2 | ★★ |
-| Relation between mean life and decay constant | 2 | ★ |
+**No standalone derivations in the current syllabus.** Chapter 13
+(Nuclei) now covers only the composition and size of the nucleus,
+nuclear forces, mass defect, the binding-energy-per-nucleon curve, and
+fission/fusion — all conceptual, not derivation-based. The radioactivity
+topic (decay law N = N₀e^(−λt), half-life, and mean life) has been
+**removed from the syllabus entirely** and should not be prepared as a
+derivation, or at all, unless your school's internal notes say otherwise.
 
 ## Unit 10 — Semiconductor Electronics
 
@@ -147,4 +182,6 @@ asked from this unit, unlike Units 1–9 above.
 
 Sources consulted for frequency/scope: recent-year CBSE sample papers and
 previous-year question papers, and the current rationalised CBSE Class 12
-Physics syllabus (cbseacademic.nic.in).
+Physics syllabus (cbseacademic.nic.in) — including its exact wording on
+which items are formula-only or qualitative-only, which is why those are
+now called out separately rather than listed as derivations.
